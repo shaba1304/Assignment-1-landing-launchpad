@@ -14,13 +14,15 @@
 }
 .left{
   float: left;
+  color: blue;
+  font-weight: bold;
 }
 .right{
   float: right;
 }
 #header{
   width: auto;
-  height: 60px;
+  height: 200px;
   padding: 0px 20px;
 
 }
@@ -29,7 +31,7 @@
   height: 200px;
   padding: 0;
   text-align: top;
-  margin-left: 120px;
+  margin-left: 500px;
 }
 h1{
   color: 252432;
@@ -40,7 +42,7 @@ h1{
   background-color: chocolate;
   background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
   width: auto;
-  height: 500px;
+  height: 734px;
   opacity: 100%;
   border-radius: 0%;
   align-content: center;
